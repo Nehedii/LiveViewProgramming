@@ -1,7 +1,0 @@
-.DS_Store
-.idea
-*.iml
-target/
-build
-test.java
-Test.java
